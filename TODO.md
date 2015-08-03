@@ -6,6 +6,8 @@ RELEASE NOTES
 - //button[contains(concat(' ', @class, ' '), ' btn-icon ') and @data-original-title='[review]Activate' or @title='[review]Activate']
   LOGGER.debug(MessageFormat.format("{0} is {0} years old, er, young", "e45"));
 
+test
+
 **Release Notes for Testy 2.0.0-SNAPSHOT**
 
 
